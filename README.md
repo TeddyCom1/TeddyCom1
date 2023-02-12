@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Calvin!
-- 👀 I’m interested in cyber security, pen testing, and software development
-- 🌱 I’m currently learning computer science (Security Engineering) at UNSW Australia
+- 👀 I’m interested in cyber security, cloud security and security automation! Pretty much All things security! 
+- 🌱 I'm currently working as an Associate Consultant at CMD Solutions in Cloud Security and really looking forward to improving my skills in the field
 
-If you want to contact me email is probs best:
+If you want to contact me my private email is:
 
 csclong@gmail.com
